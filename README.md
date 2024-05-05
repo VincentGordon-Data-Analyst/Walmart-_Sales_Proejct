@@ -1,7 +1,7 @@
 # Walmart Sales Data Analysis with Power BI
 
 ## Overview
-This project focuses on analyzing sales data from Walmart using Power BI. The dataset contains information about daily sales, including product details, customer demographics, and sales performance metrics. The objective is to gain insights into sales trends, customer behavior, and product performance to support decision-making and business strategies. The data used for this project was taken from [Kaggle-Walmart Sales Dataset](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
+This project focuses on analyzing sales data from Walmart using Power BI. The dataset contains information about daily sales, including product details, customer demographics, and sales performance metrics. The objective is to gain insights into sales trends, customer behavior, and product performance to support business decisions strategies. The data used for this project was taken from [Kaggle-Walmart Sales Dataset](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
 
 ## Dataset
 - invoice_id: invoice of the sales made
